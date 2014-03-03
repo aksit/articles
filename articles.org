@@ -1,0 +1,77 @@
+#+TITLE: My Lazy Articles
+
+* My Lazy Artifacts
+  :PROPERTIES:
+  :PAGE:     index.html
+  :TEMPLATE: blog_static_no_title.html
+  :END:
+
+#+begin_o_blog_hero_unit
+#+HTML: <h1>My Lazy Articles</h1>
+
+私的で怠惰なメモ
+#+end_o_blog_hero_unit
+
+まずは、[[https://github.com/renard/o-blog][o-blog]] でお試し中です。
+
+** Articles
+- [[./software.html][Software]]
+- [[./cooking.html][Cooking]]
+
+** External Links
+- [[https://github.com/aksit][GitHub]]
+- [[https://github.com/aksit.keys][SSH PublicKey]]
+- [[http://www.movescount.com/members/akiyuki][Running]]
+
+* Blog details
+** Copyright
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+** About
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+o-blogでお試し中の、私的で怠惰なメモです。
+
+** Navigation
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+- [[file:#][/icon-file icon-white/ Articles]]
+  - [[./software.html][Software]]
+  - [[./cooking.html][Cooking]]
+
+- [[file:#][/icon-comments-alt icon-white/ External Links]]
+  - [[https://github.com/aksit][GitHub]]
+  - [[https://github.com/aksit.keys][SSH PublicKey]]
+  - [[http://www.movescount.com/members/akiyuki][Running]]
+
+
+** Navigation Footer
+  :PROPERTIES:
+  :SNIPPET:  t
+  :END:
+
+NatigationFooter
+
+* Articles
+** Software
+  :PROPERTIES:
+  :PAGE:     software.html
+  :TEMPLATE: blog_static_no_title.html
+  :END:
+
+Softwareについてのインストールメモ・設定メモ・Tipsなどなど。
+
+** Cooking
+  :PROPERTIES:
+  :PAGE:     cooking.html
+  :TEMPLATE: blog_static_no_title.html
+  :END:
+
+料理の備忘録です。
+
