@@ -1,6 +1,6 @@
 #+TITLE: My Lazy Articles
 
-* My Lazy Artifacts
+* My Lazy Articles
   :PROPERTIES:
   :PAGE:     index.html
   :TEMPLATE: blog_static_no_title.html
